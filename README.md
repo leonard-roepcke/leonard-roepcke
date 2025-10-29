@@ -1,18 +1,15 @@
 ## Hi there 👋
-## commit("new life changes")
-!["nix funktionieren"](cover_image.jpeg)
+## Welcome to Leonard's corner of GitHub
+
+![](cover_image.jpeg)
+An IC computer built from logic gates, demonstrating the construction of a small functional processor.
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/leonard-roepcke?theme=dark&font=Noto%20Sans%20Medefaidrin&ext=heatmap)
-<!--
-**leonard-roepcke/leonard-roepcke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently in school, exploring computer science and electronics
+- 🌱 I enjoy learning how to implement more complex Python algorithms
+- 👯 I’m open to collaborating on coding projects, especially in Python
+- 🤔 I’d love guidance on designing sleek and functional websites
+- 💬 Feel free to ask me about algorithm optimization (I find it really fun!)
+- 📫 Reach me via WhatsApp: 0176 20358904
+- ⚡ Fun fact: I do my best coding between 4–7am
