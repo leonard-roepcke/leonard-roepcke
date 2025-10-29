@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## commit("new life changes")
-![]("cover_image.jpeg")
+!["nix funktionieren"]("cover_image.jpeg")
 ![LeetCode Stats](https://leetcard.jacoblin.cool/leonard-roepcke?theme=dark&font=Noto%20Sans%20Medefaidrin&ext=heatmap)
 <!--
 **leonard-roepcke/leonard-roepcke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
