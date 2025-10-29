@@ -4,7 +4,7 @@
 ![](cover_image.jpeg)
 An IC computer built from logic gates, demonstrating the construction of a small functional processor.
 
-<table>
+<table border="0">
 <tr>
   <td>
     <img src="https://leetcard.jacoblin.cool/leonard-roepcke?theme=dark&font=Noto%20Sans%20Medefaidrin&ext=heatmap" width="400">
