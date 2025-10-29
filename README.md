@@ -4,10 +4,19 @@
 ![](cover_image.jpeg)
 An IC computer built from logic gates, demonstrating the construction of a small functional processor.
 
-<p float="left">
-  <img src="https://leetcard.jacoblin.cool/leonard-roepcke?theme=dark&font=Noto%20Sans%20Medefaidrin&ext=heatmap" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonard-roepcke&layout=compact&theme=radical&show_icons=true" width="400" />
-</p>
+<table>
+<tr>
+  <td>
+    <img src="https://leetcard.jacoblin.cool/leonard-roepcke?theme=dark&font=Noto%20Sans%20Medefaidrin&ext=heatmap" width="400">
+  </td>
+  <td width="20"></td> 
+  <td>
+    <a href="https://github.com/leonard-roepcke">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonard-roepcke&layout=compact&theme=radical&show_icons=true" width="400">
+    </a>
+  </td>
+</tr>
+</table>
 
 - 🔭 I’m currently in school, exploring computer science and electronics
 - 🌱 I enjoy learning how to implement more complex Python algorithms
