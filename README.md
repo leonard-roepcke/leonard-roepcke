@@ -4,12 +4,12 @@
 ![](cover_image.jpeg)
 An IC computer built from logic gates, demonstrating the construction of a small functional processor.
 
-<table border="0">
+<table style="border:none;">
 <tr>
   <td>
     <img src="https://leetcard.jacoblin.cool/leonard-roepcke?theme=dark&font=Noto%20Sans%20Medefaidrin&ext=heatmap" width="400">
   </td>
-  <td width="20"></td> 
+  <td width="20"></td> <!-- Abstand -->
   <td>
     <a href="https://github.com/leonard-roepcke">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonard-roepcke&layout=compact&theme=radical&show_icons=true" width="400">
