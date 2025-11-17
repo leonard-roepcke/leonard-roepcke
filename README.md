@@ -8,9 +8,8 @@
 - 🔭 I’m currently in school, exploring computer science and electronics
 - 🌱 I enjoy learning how to implement more complex Python algorithms
 - 👯 I’m open to collaborating on coding projects, especially in Python
-- 🤔 I’d love guidance on designing sleek and functional websites
 - 💬 Feel free to ask me about algorithm optimization (I find it really fun!)
-- 📫 Reach me via WhatsApp: 0176 20358904
+- 📫 Reach me via WhatsApp: 0176 20358904 or per Discord(leonard_develops)
 - ⚡ Fun fact: I do my best coding between 4–7am
 
 </td>
