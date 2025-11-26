@@ -9,7 +9,7 @@
 - 🌱 I enjoy learning how to implement more complex Python algorithms
 - 👯 I’m open to collaborating on coding projects, especially in Python
 - 💬 Feel free to ask me about algorithm optimization (I find it really fun!)
-- 📫 Reach me via WhatsApp: 0176 20358904 or per Discord(leonard_develops)
+- 📫 Reach me via WhatsApp: 0176 20358904
 - ⚡ Fun fact: I do my best coding between 4–7am
 
 </td>
