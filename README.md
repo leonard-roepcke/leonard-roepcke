@@ -15,7 +15,6 @@
 </td>
 <td style="vertical-align:top; text-align:right;; width:50%">
 
-Leetcode
 <img src="https://leetcard.jacoblin.cool/leonard-roepcke?theme=dark&font=Noto%20Sans%20Medefaidrin&ext=heatmap" alt="Leetcard" width="400" style="margin-bottom:12px;">
 <a href="https://github.com/leonard-roepcke">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonard-roepcke&layout=compact&theme=radical&show_icons=true" alt="" width="400">
